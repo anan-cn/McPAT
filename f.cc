@@ -8,4 +8,8 @@ void f()
 	   cout<<"hi";
 
 }
+void t()
+{
 
+	cout<<"fun t";
+}
