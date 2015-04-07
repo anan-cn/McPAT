@@ -11,5 +11,5 @@ void f()
 void t()
 {
 
-	cout<<"fun t";
+	cout<<"fun t())))";
 }
