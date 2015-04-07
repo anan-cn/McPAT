@@ -5,6 +5,7 @@ void f()
 
    std:cout<<"hell,world";
 	   cout<<"hi,git";
+	   cout<<"hi";
 
 }
 
